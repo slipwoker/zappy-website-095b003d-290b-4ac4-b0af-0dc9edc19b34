@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://world-cup-1-095b003d.zappy5.app
+https://example.com
 כל המידע על גביע העולם בכדורגל במקום אחד: לוח זמנים מלא, תאריכי משחקים וחדשות חמות. היכנסו עכשיו ותכננו את ימי השידור שלכם בלי לפספס אף בעיטה!
 
 ### תודה רבה - פנייתך התקבלה | World Cup 1
-https://world-cup-1-095b003d.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית לצוות world cup 1 16. פנייתך התקבלה בהצלחה ואנו נחזור אליך בהקדם עם כל המידע הנדרש עבור all sports information.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://world-cup-1-095b003d.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://world-cup-1-095b003d.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://world-cup-1-095b003d.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -35,8 +35,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://world-cup-1-095b003d.zappy5.app
-- Endpoint: https://world-cup-1-095b003d.zappy5.app/api/email/contact-form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -69,6 +69,6 @@ Sports / Information
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://world-cup-1-095b003d.zappy5.app/sitemap.xml
-- Robots: https://world-cup-1-095b003d.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://world-cup-1-095b003d.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
