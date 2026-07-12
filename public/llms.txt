@@ -1,0 +1,74 @@
+# World Cup 1 — Generative Engine Optimization Map
+
+> A sports information website focused on the FIFA World Cup, providing schedules, dates, and related information for football fans who want to know when the next World Cup takes place.
+
+---
+
+## Pages
+
+### בית
+https://world-cup-1-095b003d.zappy5.app
+כל המידע על גביע העולם בכדורגל במקום אחד: לוח זמנים מלא, תאריכי משחקים וחדשות חמות. היכנסו עכשיו ותכננו את ימי השידור שלכם בלי לפספס אף בעיטה!
+
+### תודה רבה - פנייתך התקבלה | World Cup 1
+https://world-cup-1-095b003d.zappy5.app/thank-you
+תודה שפנית לצוות world cup 1 16. פנייתך התקבלה בהצלחה ואנו נחזור אליך בהקדם עם כל המידע הנדרש עבור all sports information.
+
+## Legal & Policy
+
+### Privacy Policy
+https://world-cup-1-095b003d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://world-cup-1-095b003d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://world-cup-1-095b003d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://world-cup-1-095b003d.zappy5.app
+- Endpoint: https://world-cup-1-095b003d.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About World Cup 1
+A sports information website focused on the FIFA World Cup, providing schedules, dates, and related information for football fans who want to know when the next World Cup takes place.
+
+## Services/Products
+- לוח זמנים של המונדיאל
+- מועדים ותאריכים
+
+## Target Audience
+- אוהדי כדורגל
+- בלוגרי ספורט
+- מתכנני אירועים
+
+## Industry
+Sports / Information
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://world-cup-1-095b003d.zappy5.app/sitemap.xml
+- Robots: https://world-cup-1-095b003d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://world-cup-1-095b003d.zappy5.app/llms-full.txt
